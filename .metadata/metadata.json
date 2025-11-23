@@ -1,0 +1,11 @@
+﻿{
+	"name":	"Lucky Nations",
+	"id":	"lastkripkean.lucky_nations",
+	"version":	"1.0",
+	"supported_game_version":	"1.0.7",
+	"short_description":	"Lucky nations",
+	"tags":	[],
+	"relationships":	[],
+	"game_custom_data":	{
+}
+}

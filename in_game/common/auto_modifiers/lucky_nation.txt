@@ -1,0 +1,35 @@
+lucky_nation = {
+	potential_trigger = {
+	    OR = {
+			has_or_had_tag = TUR
+			has_or_had_tag = MOS
+			has_or_had_tag = ENG
+			has_or_had_tag = CAS
+			has_or_had_tag = FRA
+			has_or_had_tag = POL
+			has_or_had_tag = SWE
+			has_or_had_tag = POR
+			has_or_had_tag = AYU
+			has_or_had_tag = OMA
+			has_or_had_tag = HAB
+			has_or_had_tag = BRA
+			has_or_had_tag = TIM
+			has_or_had_tag = SSH
+			has_or_had_tag = MNG
+			has_or_had_tag = MOR			
+			has_or_had_tag = VIJ
+			has_or_had_tag = IRA											
+		}
+		is_human = no	
+	}
+	
+	global_integration_speed_modifier = 0.33
+	land_unit_attrition = -0.2
+	discipline = 0.05
+	global_manpower_modifier = 0.10
+	global_sailors_modifier = 0.05	
+	subject_loyalty = 10
+	fort_maintenance_cost = -0.2
+	global_levy_size_modifier = 0.1
+	tax_income_efficiency = 0.1
+}
