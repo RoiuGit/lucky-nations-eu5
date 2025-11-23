@@ -31,5 +31,5 @@ lucky_nation = {
 	subject_loyalty = 10
 	fort_maintenance_cost = -0.2
 	global_levy_size_modifier = 0.1
-	tax_income_efficiency = 0.1
+#	tax_income_efficiency = 0.1
 }
